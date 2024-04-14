@@ -1,0 +1,22 @@
+{
+  "name": "s1_mgmt_api",
+  "version": "2.1",
+  "description": "SentinelOne_Management_Console_API_specification_",
+  "license": "Unlicense",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "browser": {
+    "fs": false
+  },
+  "dependencies": {
+    "querystring": "0.2.0",
+    "superagent": "3.7.0"
+  },
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "mocha": "^10.4.0",
+    "sinon": "1.17.3"
+  }
+}

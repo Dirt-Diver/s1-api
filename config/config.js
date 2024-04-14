@@ -1,0 +1,7 @@
+const apiConfig = {
+    apiKey: 'ApiToken eyJraWQiOiJ0b2tlblNpZ25pbmciLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzZXJ2aWNldXNlci1iZjM4OWYzZS02ZGFlLTQzYjMtYTcwNS00OThhYzA2N2JkZGJAbWdtdC0zNjUuc2VudGluZWxvbmUubmV0IiwiaXNzIjoiYXV0aG4tYXAtc291dGhlYXN0LTEtcHJvZCIsImRlcGxveW1lbnRfaWQiOiIzNjUiLCJ0eXBlIjoidXNlciIsImV4cCI6MTcxNTYyNjQzOSwianRpIjoiZjYyMGY5OWQtOGE5NS00NzVjLTk0YTgtZjUxNmIxZjNiYTJlIn0.6Q6w-PBKRLI07gj-coO_6R8mgOzSRobNLGCTXS7FuBq_fFEa096omDuMCq5LznjIL0nWeNnymSpac1e3-O-5UA',
+    baseUrl: 'https://api.example.com'
+};
+
+// Export the variable
+module.exports = apiConfig;

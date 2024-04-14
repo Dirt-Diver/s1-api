@@ -1,0 +1,30 @@
+#ignore Docker files
+Dockerfile
+docker*.yml
+
+# Ignore git
+.git
+.gitignore
+.config
+
+# Ignore editor settings
+.npm
+.vscode
+.idea
+*.sublime*
+
+node_modules
+
+README.md
+
+# Ignore OS created Filesz
+.DS_Store
+Thumbs.db
+
+# Ignore development config files
+.env.development
+.env.local
+
+# Ignore npm log
+npm-debug.log
+yarn-error.log
