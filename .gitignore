@@ -1,3 +1,8 @@
 .swagger-codegen
 .vscode
 node_modules
+
+api/.swagger-codegen-ignore
+api/.travis.yml
+api/git_push.sh
+api/mocha.opts
