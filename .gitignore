@@ -8,4 +8,4 @@ api/git_push.sh
 api/mocha.opts
 
 
-config/config.js
+config
