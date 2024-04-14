@@ -6,3 +6,6 @@ api/.swagger-codegen-ignore
 api/.travis.yml
 api/git_push.sh
 api/mocha.opts
+
+
+config/config.js
